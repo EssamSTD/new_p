@@ -142,8 +142,8 @@ h4 {
 #menu li.divline {
 	padding: 0;
 	border-right: thin solid #210099;
-	height: 8px;
-	margin: 26px 0 0;
+	height: 29px;
+	margin: 6px 0 0;
 }
 #main {
 	margin-top: 50px;
@@ -788,7 +788,8 @@ div .tab {
 	display: block;
     width: 265px;
     height: 37px;
-    background-color: #bc83ff;
+    background-color: #0d0093;
+	color: yellow;
     border-radius: 17px;
     font-weight: bold;
 	font-size: large;
@@ -826,6 +827,10 @@ div .tab {
 	position: relative;
 	right: -16px;
 }
+#aa:hover {
+	color: red;
+
+}
 #ahome {
 	color: #000;
 	background-color: #738feb;
@@ -834,6 +839,12 @@ div .tab {
 	height: 42px;
 	text-decoration: none !important;
 	border-radius: 13px;
-	border: black 2px solid;
+	border: #000 2px solid;
 	line-height: 40px;
+	font-size: large;
+	cursor: pointer;
+}
+#hrhome {
+	height: 2px;
+	background-color: rebeccapurple;
 }
