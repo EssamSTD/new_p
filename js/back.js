@@ -24,8 +24,8 @@ var Statistics = `
     Logic Dr/Ahmed Gaber<a id="mylink" href="https://www.youtube.com/playlist?list=PLxIvc-MGOs6gZlMVYOOEtUHJmfUquCjwz" target="_blank">    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Arrow_east.svg" height="10px" width="15px">    Go</a><br>
     
     <div id="math104" style="font-size: 14px;color: #0000ff;font-weight: bold;">Dr/Manar:</div>
-    
-    
+    Soon<br>
+    Soon<br>
     <p id="text_side">PDF:</p><br>
     <div id="math104" style="font-size: 14px;color: #0000ff;font-weight: bold;">Dr/Ahmed Gaber:</div>
     Lecture 1: Propositions<a id="mylink" href="https://drive.google.com/file/d/1xTYRZsTZZTnd6yaFJdtzDaTii_zevJVy/view?usp=sharing" target="_blank">    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Arrow_east.svg" height="10px" width="15px">    Show</a><br>
@@ -120,8 +120,8 @@ var Computer_Science = `
     Logic Dr/Ahmed Gaber<a id="mylink" href="https://www.youtube.com/playlist?list=PLxIvc-MGOs6gZlMVYOOEtUHJmfUquCjwz" target="_blank">    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Arrow_east.svg" height="10px" width="15px">    Go</a><br>
     
     <div id="math104" style="font-size: 14px;color: #0000ff;font-weight: bold;">Dr/Manar:</div>
-    
-    
+    Soon<br>
+    Soon<br>
     <p id="text_side">PDF:</p><br>
     <div id="math104" style="font-size: 14px;color: #0000ff;font-weight: bold;">Dr/Ahmed Gaber:</div>
     Lecture 1: Propositions<a id="mylink" href="https://drive.google.com/file/d/1xTYRZsTZZTnd6yaFJdtzDaTii_zevJVy/view?usp=sharing" target="_blank">    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Arrow_east.svg" height="10px" width="15px">    Show</a><br>
