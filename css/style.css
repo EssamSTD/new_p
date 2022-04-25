@@ -213,8 +213,8 @@ input {width:250px;
 	padding-left: 50px;
 }
 #footerImg {
-	height: 92px;
-	background: url(../images/footer.gif) no-repeat center;
+	height: 93px;
+
 }
 #footer #stripe {
 	height: 20px;
@@ -371,4 +371,11 @@ li .Youtube:hover {
 #hrhome {
 	height: 2px;
 	background-color: rebeccapurple;
+}
+#img_footer{
+	height: 100%;
+	width: 75%;
+	position: relative;
+	bottom: 3px;
+	left: 113px;
 }
